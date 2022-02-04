@@ -11,3 +11,5 @@ Another feature I added using PHP was ordering the images from the img folder by
 
 The js file handles toggling the lightbox when an image is clicked on, allowing the user to cycle through the images on the index page from within the light box. The lightbox resets to the first image when the user clicks the next arrow on the last image on the page. 
 
+
+***I do not own any of the example images in the img folder. All images came from Pixabay and are free to use w/o attribution***
